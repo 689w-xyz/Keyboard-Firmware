@@ -1,0 +1,4 @@
+/*
+ * Programming by Stefan Jakobsson, 2019
+ * Released to public domain
+ */
